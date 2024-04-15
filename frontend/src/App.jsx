@@ -1,7 +1,7 @@
 import React from 'react'
-import './output.css'; 
+import './output.css';  
 
-const App = () => {
+const App = () => {  
   return (
     <div className='bg-red-400 text-white'> App </div>
   )
